@@ -39,6 +39,8 @@
 
 - git add .
 
+- git config --list
+
 - git config --global "ssar@nate.com"
 - git config --global "ssar"
 
